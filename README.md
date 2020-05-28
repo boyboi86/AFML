@@ -35,12 +35,20 @@ The only time I used numba (njit) was in chapter 5 (frac diff).
 
 Believe it or not, without numpy or numba I somehow managed to clock up to 700x improvement in processing speed. (I will strongly encourage you to do the same, to get the best out of the book.)
 
-**Note**
+**Note:**
 Be wary of repositories that decided to provide you with answers and codes. Some of their codes, believe or not is wrong, conceptually.
 It's always best to write code from scratch, in that way you will know completely what you use. As well as how to implement them.
 
-**Another Note**
+**Another Note:**
 You will be surprise how many professional "quants" (from elite banks/ hedge funds) are using codes they are not even sure of. Always do code review before you even use it.
 
-**Last Note**
+**Last Note:**
 Anyone can be absolutely wrong, that includes me. Have confident in yourself. That was my mindset when I started this book.
+
+> There are very few things which we know, which are not capable of being reduced to a mathematical reasoning.
+>
+> And when they cannot, it's a sign our knowledge of them is very small and confused.
+>
+> Where a mathematical reasoning can be had, it's a great folly to make use of others, as to grope for a thing in the dark, when you have a candle standing by you.
+>
+> &mdash; Of Laws of Chances, Preface (1692). John Arbuthnot (1667 - 1735).
