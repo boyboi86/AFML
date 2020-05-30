@@ -1,7 +1,21 @@
 # Advances in Financial Machine Learning
 All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Prado. I will strongly recommend you to do the same.
 
+Not only his book can  teach you basic quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
+
 The book itself teaches very rational methods to quantitative finance, most of the concepts (especially triple barriers) can be cross-reference to other strategies types (not just mean-reversion) such as volatilities, trends.
+
+**Prerequistes**
+
+This is what I think as I go through this book.
+
+* You need to understand econometrics
+* You need to know Python development
+* Understand and appreciate parallization computering
+* Required to know advance mathematics and statistics
+* Understand finance and investment (Preferably with real investment experience for behaviorial economics)
+* Know how computer hardwares and latency can impact your codes
+* Alot of common sense beyond just textbooks-smart (To relate and evaluate how practical implementations are done)
 
 **Fun Fact**
 
@@ -11,12 +25,14 @@ Before I proceed to next chapter, I will try to match my answers to the book, he
 
 **Other References**
 
-There is another library that was created way before mine, I will strongly recommend you to download their library, as a reference as you try to implement the codes. As well as their exercises, to see if our answers are somewhat similar to yours. (I heard they are going to privatise their repository at Dec 2020, but you can try.)
+There is another library that was created way before mine (Actually more than 1 before mine), I will strongly recommend you to download their library, as a reference as you try to implement the codes. As well as their exercises, to see if our answers are somewhat similar to yours. (I heard they are going to privatise their repository at Dec 2020, but you can try.)
+
+They have about 14 contributors and I'm just 1 person. So logically, you should use their library.
 
 * [mlfinlab library](https://github.com/hudson-and-thames/mlfinlab)
 * [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
 
-All the codes used in this exercise was created from scratch by myself (Which took quite an effort), therefore the answers might be slightly different from theirs.
+All the codes used in this exercise was created from scratch by myself based on what was taught in the book (Which took quite an effort), therefore the answers might be slightly different from theirs.
 
 However, our sample data (Based on dollar bar) are identical.
 
@@ -28,21 +44,20 @@ If you decide to write the code from scratch (Highly recommend!) and use my note
 * pandas 1.0.3
 * matplotlib 3.1.1
 * sklearn 0.23.1
+* statsmodels 0.10.1
 
 As much as possible, I used multiprocessing (parallelisation) and pandas only. (As a challenge.)
 
-The only time I used numba (njit) was in chapter 5 (frac diff).
+The only time I used numba (njit) was in chapter 5 (frac diff), out of convenience. But they are really fast.
 
-Believe it or not, without numpy or numba I somehow managed to clock up to 700x improvement in processing speed. (I will strongly encourage you to do the same, to get the best out of the book.)
+Believe it or not, without numpy or numba I somehow managed to clock up to 700x improvement in processing speed. (I will strongly encourage you to do the same, to get the best out of the book)
 
-**Note:**
-Be wary of repositories that decided to provide you with answers and codes. Some of their codes, believe or not is wrong, conceptually.
+**Advice:**
+Be wary of repositories that decided to provide you with answers and open-source codes. Some of their codes, believe or not is wrong, conceptually.
+
 It's always best to write code from scratch, in that way you will know completely what you use. As well as how to implement them.
 
-**Another Note:**
-You will be surprise how many professional "quants" (from elite banks/ hedge funds) are using codes they are not even sure of. Always do code review before you even use it.
-
-**Last Note:**
+**Note:**
 Anyone can be absolutely wrong, that includes me. Have confident in yourself. That was my mindset when I started this book.
 
 > There are very few things which we know, which are not capable of being reduced to a mathematical reasoning.
