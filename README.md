@@ -1,7 +1,7 @@
 # Advances in Financial Machine Learning
 All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Prado. I will strongly recommend you to do the same.
 
-Not only his book can  teach you basic quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
+Not only his book can  teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
 
 The book itself teaches very rational methods to quantitative finance, most of the concepts (especially triple barriers) can be cross-reference to other strategies types (not just mean-reversion) such as volatilities, trends.
 
@@ -25,14 +25,12 @@ Before I proceed to next chapter, I will try to match my answers to the book, he
 
 **Other References**
 
-There is another library that was created way before mine (Actually more than 1 before mine), I will strongly recommend you to download their library, as a reference as you try to implement the codes. As well as their exercises, to see if our answers are somewhat similar to yours. (I heard they are going to privatise their repository at Dec 2020, but you can try.)
-
-They have about 14 contributors and I'm just 1 person. So logically, you should use their library.
+There is another library that was created way before mine (Actually more than 1 before mine), I will strongly recommend you to download their library, as a reference as you try to implement the codes. As well as their exercises, to see if our answers are somewhat similar to yours. (They have about 14 contributors and I'm just a part-time cashier. So logically, you should use their library)
 
 * [mlfinlab library](https://github.com/hudson-and-thames/mlfinlab)
 * [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
 
-All the codes used in this exercise was created from scratch by myself based on what was taught in the book (Which took quite an effort), therefore the answers might be slightly different from theirs.
+All the codes used in this exercise was created from scratch by myself based on what was taught in the book (Which took quite an effort), therefore the answers might be different from theirs.
 
 However, our sample data (Based on dollar bar) are identical.
 
@@ -53,12 +51,12 @@ The only time I used numba (njit) was in chapter 5 (frac diff), out of convenien
 Believe it or not, without numpy or numba I somehow managed to clock up to 700x improvement in processing speed. (I will strongly encourage you to do the same, to get the best out of the book)
 
 **Advice:**
-Be wary of repositories that decided to provide you with answers and open-source codes. Some of their codes, believe or not is wrong, conceptually.
-
 It's always best to write code from scratch, in that way you will know completely what you use. As well as how to implement them.
 
 **Note:**
 Anyone can be absolutely wrong, that includes me. Have confident in yourself. That was my mindset when I started this book.
+
+Here's a quote from AFML
 
 > There are very few things which we know, which are not capable of being reduced to a mathematical reasoning.
 >
@@ -66,4 +64,8 @@ Anyone can be absolutely wrong, that includes me. Have confident in yourself. Th
 >
 > Where a mathematical reasoning can be had, it's a great folly to make use of others, as to grope for a thing in the dark, when you have a candle standing by you.
 >
-> &mdash; Of Laws of Chances, Preface (1692). John Arbuthnot (1667 - 1735).
+> &mdash; Of Laws of Chances, Preface (1692), John Arbuthnot (1667 - 1735).
+
+**Disclaimer**
+
+The code I used is not available (private), only research outcome.
