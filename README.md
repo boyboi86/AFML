@@ -66,6 +66,4 @@ Here's a quote from AFML
 >
 > &mdash; Of Laws of Chances, Preface (1692), John Arbuthnot (1667 - 1735).
 
-**Disclaimer**
-
-The code I used is not available (private), only research outcome.
+All notebook research was done in private alone, You may contact directly me at <boyboi86@gmail.com> for further discussion on research outcome.
