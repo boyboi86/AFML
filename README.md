@@ -23,6 +23,10 @@ There is another library that was created way before mine (Actually more than 1 
 * [mlfinlab library](https://github.com/hudson-and-thames/mlfinlab)
 * [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
 
+If you are interested in quantitative research, but do not have high-frequency data. I created a code snippet for you to generate some HFT data to get you started.
+
+[generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
+
 **Disclaimer**
 
 All the codes used in this exercise was created from scratch by myself based on what was taught in the book (Which took quite an effort).
