@@ -25,7 +25,7 @@ There is another library that was created way before mine (Actually more than 1 
 
 If you are interested in quantitative research, but do not have high-frequency data. I created a code snippet for you to generate some HFT data to get you started.
 
-[generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
+[Generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
 
 **Disclaimer**
 
