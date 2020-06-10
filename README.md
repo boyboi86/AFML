@@ -1,8 +1,17 @@
 # Advances in Financial Machine Learning
 
-All the experimental answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Prado.
+All the experimental answers for exercises from Advances in Financial Machine Learning by [Dr Marcos López de Prado](https://twitter.com/lopezdeprado?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+![logo](https://media.wiley.com/product_data/coverImage300/89/11194820/1119482089.jpg)
 
 This book can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
+
+> "Every successful investment strategy is always supported by an equally sound theory that is practical,
+> you either prove with results or you prove the theory first.
+>
+> Either way one will always lead to another."
+>
+> &mdash; "Project Cauldrons"
 
 The book itself teaches very rational methods to quantitative finance, most of the concepts (especially triple barriers/ bet sizing) can be cross-reference to other strategies types (not just mean-reversion) such as volatilities, trends.
 
@@ -36,3 +45,7 @@ If you are interested in quantitative research, but do not have high-frequency d
 I'm not using mlfinlab to complete these exercise, but I do compare my answers with theirs.
 
 At the same time, this repository can only cover concepts and demostrate implementation. If you intend to deploy real quantitative strategies, you will require real HFT data.
+
+You will need to purchase "Advances in Financial Machine Learning" in order to follow the tutorial. 
+
+This is a textbook that is used in [Cornell University graduate studies](https://www.orie.cornell.edu/news/orie-adds-marcos-lopez-de-prado-cornell-financial-engineering-manhattan), that is why we are using it as a guide.
