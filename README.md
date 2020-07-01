@@ -4,7 +4,7 @@ All the experimental answers for exercises from Advances in Financial Machine Le
 
 ![logo](https://media.wiley.com/product_data/coverImage300/89/11194820/1119482089.jpg)
 
-This book can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
+This book (A collection of research papers) can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
 
 > "Every successful investment strategy is always supported by an equally sound theory that is practical,
 > you either prove with results or you prove the theory first.
