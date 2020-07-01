@@ -19,6 +19,7 @@ If you decide to write the code from scratch (Highly recommend!) and use my note
 
 * Python 3.7.4
 * numpy 1.17.3
+* scipy 1.3.1
 * numba 0.49.1
 * pandas 1.0.3
 * matplotlib 3.1.1
@@ -27,20 +28,11 @@ If you decide to write the code from scratch (Highly recommend!) and use my note
 
 **Disclaimer**
 
-Apart from the above modules, all the codes ran in these notebook were written from scratch.
-
-I strongly encourage you to do the same.
+Apart from the above modules, all the codes ran in these notebook were written from scratch (Private Repository).
 
 **Other References**
 
-If you decided to use open-source codes from others..
-
-* [mlfinlab library](https://github.com/boyboi86/mlfinlab)
 * [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
-
-Mlfinlab has been removing some of their codes especially portfolio optimization lately. The current version from my repository is "most complete". But! You might want to know some of their code snippets may not reflect the concepts (Either not functional or redundant features).
-
-If we are using the same data but our answers are vastly different, you might want to write that part from scratch as well.
 
 If you are interested in quantitative research, but do not have high-frequency data. I created a code snippet for you to generate some synthetic HFT data to get you started.
 
