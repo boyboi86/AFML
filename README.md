@@ -25,27 +25,23 @@ If you decide to write the code from scratch (Highly recommend!) and use my note
 * sklearn 0.23.1
 * statsmodels 0.10.1
 
+**Disclaimer**
+
+Apart from the above modules, all the codes ran in these notebook were written from scratch.
+
+I strongly encourage you to do the same.
+
 **Other References**
 
-There is another library that was created way before mine (Actually more than 1 before mine), I will strongly recommend you to download their library, as a reference as you try to implement the codes. 
+If you decided to use open-source codes from others..
 
-As well as their exercises, to see if our answers are somewhat similar to yours.
-
-* [mlfinlab library](https://github.com/hudson-and-thames/mlfinlab)
+* [mlfinlab library](https://github.com/boyboi86/mlfinlab)
 * [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
 
-Pls donate to them if you are leveraging mlfinlab expertise, it's not easy to maintain open-source library.
+Mlfinlab has been removing some of their codes especially portfolio optimization lately. The current version from my repository is "most complete". But! You might want to know some of their code snippets may not reflect the concepts (Either not functional or redundant features).
+
+If we are using the same data but our answers are vastly different, you might want to write that part from scratch as well.
 
 If you are interested in quantitative research, but do not have high-frequency data. I created a code snippet for you to generate some synthetic HFT data to get you started.
 
 [Generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
-
-**Disclaimer**
-
-I'm not using mlfinlab to complete these exercise, but I do compare my answers with theirs.
-
-At the same time, this repository can only cover concepts and demostrate implementation. If you intend to deploy real quantitative strategies, you will require real HFT data.
-
-You will need to purchase "Advances in Financial Machine Learning" in order to follow the tutorial. 
-
-This is a textbook that is used in [Cornell University graduate studies](https://www.orie.cornell.edu/news/orie-adds-marcos-lopez-de-prado-cornell-financial-engineering-manhattan), that is why we are using it as a guide.
