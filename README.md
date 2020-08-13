@@ -30,10 +30,28 @@ If you decide to write the code from scratch (Highly recommend!) and use my note
 
 Apart from the above modules, all the codes ran in these notebook were written from scratch (Private Repository).
 
-**Other References**
+**Note**
 
-* [mlfinlab Exercises](https://github.com/hudson-and-thames/research/tree/master/Advances%20in%20Financial%20Machine%20Learning)
-
-If you are interested in quantitative research, but do not have high-frequency data. I created a code snippet for you to generate some synthetic HFT data to get you started.
+If you are interested in quantitative research, but do not have high-frequency data. I created code snippets for you to generate some synthetic HFT data to get you started.
 
 [Generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
+
+**Note**
+
+Please take note that, most of the codes were written from scratch while the remaining codes were from references provided by dr Marco. Hence proprietary property.
+
+**Note**
+
+The idea of maintaining an open-source quant library is too daunting for me (Especially when everything was done from scratch independently), however there are code snippets and explainations provided to assist individuals who are interested in learning Financial ML.
+
+**Note**
+
+Strongly encourage every potential quants to "star" this repository instead of "forking" them, since I might include updates and/or other algorithm implementations. This research repository will always be open-source and FOC (Free-of-charge).
+
+At the end of the day, my answers is only reference. Most of the heavy lifting must still be done by interested individuals.
+
+In between, I wll drop technical advices so that it will be easy to implement in later versions of Python and the related modules.
+
+**Note**
+
+Most of the Python codes in the textbook were written 2 years ago (Python 2.*), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions to produce the algorithm.
