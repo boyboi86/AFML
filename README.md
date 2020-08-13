@@ -54,4 +54,12 @@ In between, I wll drop technical advices so that it will be easy to implement in
 
 **Note**
 
-Most of the Python codes in the textbook were written 2 years ago (Python 2.*), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions to produce the algorithm.
+Most of the Python codes in the textbook were written 2 years ago (Python 2.*), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions as well as the Mathematical concepts to produce the algorithm.
+
+It is NOT easy. Even professional quants still produce algorithms that doesn't run correctly or/ and deviates too far from the original Mathematics. (Most with Msc and work in investment industry)
+
+The above statement was made after I review some of the previously open-source quant libraries that were popular (As of today, they are all private repository).
+
+**Advice/ Encouragement**
+
+Don't give up. Good things will happen eventually. May not be as good as expected but it would still be somewhere close.
