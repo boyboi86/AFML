@@ -6,6 +6,8 @@ All the experimental answers for exercises from Advances in Financial Machine Le
 
 This book (A collection of research papers) can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
 
+At the same time, you might want to know that this is one of the graduate textbooks used in Cornell University for their Msc programe.
+
 > "Every successful investment strategy is always supported by an equally sound theory that is practical,
 > you either prove with results or you prove the theory first.
 >
@@ -38,9 +40,9 @@ If you are interested in quantitative research, but do not have high-frequency d
 
 **Note**
 
-Please take note that, most of the codes were written from scratch while the remaining codes were from references provided by dr Marco. Hence proprietary property.
+Please take note that, most of the codes were written from scratch while the remaining codes were from references provided by dr Marco. 
 
-**Note**
+Hence the codes that were used to produce the answers are considered proprietary property.
 
 The idea of maintaining an open-source quant library is too daunting for me (Especially when everything was done from scratch independently), however there are code snippets and explainations provided to assist individuals who are interested in learning Financial ML.
 
@@ -52,14 +54,14 @@ At the end of the day, my answers is only reference. Most of the heavy lifting m
 
 In between, I wll drop technical advices so that it will be easy to implement in later versions of Python and the related modules.
 
+My answer or/ and explanantion might not be perfect. So let me know if you think there are better ways to improve them.
+
 **Note**
 
-Most of the Python codes in the textbook were written 2 years ago (Python 2.*), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions as well as the Mathematical concepts to produce the algorithm.
-
-It is NOT easy. Even professional quants still produce algorithms that doesn't run correctly or/ and deviates too far from the original Mathematics. (Most with Msc and work in investment industry)
-
-The above statement was made after I review some of the previously open-source quant libraries that were popular (As of today, they are all private repository).
+Most of the Python codes in the textbook were written 2 years ago (Python 2.7), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions as well as the Mathematical concepts to produce the algorithm.
 
 **Advice/ Encouragement**
 
-Don't give up. Good things will happen eventually. May not be as good as expected but it would still be somewhere close.
+Don't give up. Good things will happen eventually.
+
+May not be as good as expected but it would still be somewhere close.
