@@ -38,7 +38,7 @@ If you are interested in quantitative research, but do not have high-frequency d
 
 [Generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
 
-This is my personal repo that has been private for a long while, feel free to fork or use it for research BUT!! DO NOT commercialize/ monetise it, please credit the original author (Basically it's me) even if there has been improvment, revision or amendments. This repo is and will always be free.. and it won't suddenly become "paid-for" ~~after abusing all the good work of github community.~~
+Update 2024: This is my personal repo that has been private for a long while, feel free to fork or use it for research BUT!! DO NOT commercialize/ monetise it, please credit the original author (Basically it's me) even if there has been improvment, revision or amendments. This repo is and will always be free.. and it won't suddenly become "paid-for" ~~after abusing all the good work of github community.~~
 
 [library link](https://github.com/boyboi86/cqrlib.git)
 
@@ -58,17 +58,17 @@ Latest update in 2024: I release my private repo see the above library link, sin
 
 **Note**
 
-Strongly encourage every potential quants to "star" this repository instead of "forking" them, since I might include updates and/or other algorithm implementations. This research repository will always be open-source and FOC (Free-of-charge).
+~~Strongly encourage every potential quants to "star" this repository instead of "forking" them, since I might include updates and/or other algorithm implementations.~~ This research repository will always be open-source and FOC (Free-of-charge).
 
 At the end of the day, my answers is only reference. Most of the heavy lifting must still be done by interested individuals.
 
-In between, I wll drop technical advices so that it will be easy to implement in later versions of Python and the related modules.
+~~In between, I wll drop technical advices so that it will be easy to implement in later versions of Python and the related modules.~~
 
-My answer or/ and explanantion might not be perfect. So let me know if you think there are better ways to improve them.
+~~My answer or/ and explanantion might not be perfect. So let me know if you think there are better ways to improve them.~~
 
 **Note**
 
-Most of the Python codes in the textbook were written 2 years ago (Python 2.7), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions as well as the Mathematical concepts to produce the algorithm.
+Most of the Python codes in the textbook were written 6 years ago (Python 2.7), which might not work in 2020. Therefore, it is required for individuals to understand Python and the research process/ intentions as well as the Mathematical concepts to produce the algorithm.
 
 **Advice/ Encouragement**
 
