@@ -6,7 +6,7 @@ All the experimental answers for exercises from Advances in Financial Machine Le
 
 This book (A collection of research papers) can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
 
-At the same time, you might want to know that this is one of the graduate textbooks used in Cornell University for their Msc programe.
+At the same time, you might want to know that this is one of the graduate textbooks used in Cornell University for their Msc programe. This repo has been plublished quite a while ago, I am currently working in a Quant Fund focus on market neutral derivatives strategies.
 
 > "Every successful investment strategy is always supported by an equally sound theory that is practical,
 > you either prove with results or you prove the theory first.
@@ -37,6 +37,14 @@ Apart from the above modules, all the codes ran in these notebook were written f
 If you are interested in quantitative research, but do not have high-frequency data. I created code snippets for you to generate some synthetic HFT data to get you started.
 
 [Generate synthetic high frequency data](https://gist.github.com/boyboi86/5e00faf48f60abfdbe838fbdee269471)
+
+This is my personal repo that has been private for a long while, feel free to fork or use it for research BUT!! DO NOT commercialize/ monetise it, please credit the original author (Basically it's me) even if there has been improvment, revision or amendments. This repo is and will always be free.. and it won't suddenly become "paid-for" ~~after abusing all the good work of github community.~~
+
+[library link](https://github.com/boyboi86/cqrlib.git)
+
+Also this repo will not be updated given my work is not related to techniques & methods used in the books. Please help improve the code to the latest version, if possible.
+
+"Kindness begets Kindness, it's the only way human hope stays alive"
 
 **Note**
 
