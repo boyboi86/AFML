@@ -6,7 +6,7 @@ All the experimental answers for exercises from Advances in Financial Machine Le
 
 This book (A collection of research papers) can teach you necessary quant skills, the exercises provided in the book is a great way to ensure you will have a solid understanding of implementating quantitative strategy. From "A" to "Z".
 
-At the same time, you might want to know that this is one of the graduate textbooks used in Cornell University for their Msc programe. This repo has been plublished quite a while ago, I am currently working in a Quant Fund focus on market neutral derivatives strategies.
+At the same time, you might want to know that this is one of the graduate textbooks used in Cornell University for their Msc programe. This repo has been plublished quite a while ago, I am currently working in a Quant Fund focus on market neutral strategies.
 
 > "Every successful investment strategy is always supported by an equally sound theory that is practical,
 > you either prove with results or you prove the theory first.
@@ -52,7 +52,9 @@ Please take note that, most of the codes were written from scratch while the rem
 
 Hence the codes that were used to produce the answers are considered proprietary property.
 
-The idea of maintaining an open-source quant library is too daunting for me (Especially when everything was done from scratch independently), however there are code snippets and explainations provided to assist individuals who are interested in learning Financial ML.
+The idea of maintaining an open-source quant library is too daunting for me (Especially when everything was done from scratch independently) ~~however there are code snippets and explainations provided to assist individuals who are interested in learning Financial ML.~~
+
+Latest update in 2024: I release my private repo see the above library link, since I'm not even using it for my work, must as well open to public for the better good.
 
 **Note**
 
@@ -73,3 +75,5 @@ Most of the Python codes in the textbook were written 2 years ago (Python 2.7), 
 Don't give up. Good things will happen eventually.
 
 May not be as good as expected but it would still be somewhere close.
+
+Integrity & consistence is the key to success.
